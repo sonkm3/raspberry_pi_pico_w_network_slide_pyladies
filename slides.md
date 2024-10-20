@@ -1,9 +1,9 @@
 ---
 theme: default
-title: Raspberry Pi Pico WでMicroPythonを始めてみましょう
+title: Raspberry Pi Pico WでMicroPythonをはじめてみましょう
 info: |
   ## PyLadies Tokyo10周年記念パーティ/10th Anniversary Party 発表資料
-  Raspberry Pi Pico WでMicroPythonを始めてみましょう
+  Raspberry Pi Pico WでMicroPythonをはじめてみましょう
 
   中村草介(Sousuke NAKAMURA)
 drawings:
@@ -14,7 +14,7 @@ layout: cover
 ---
 
 # PyLadies Tokyo10周年記念パーティ/10th Anniversary Party 発表資料
-## MicroPythonとRaspberry Pi Pico Wで始めるワイヤレス通信
+## Raspberry Pi Pico WでMicroPythonをはじめてみましょう
 
 中村草介(Sousuke NAKAMURA)
 
