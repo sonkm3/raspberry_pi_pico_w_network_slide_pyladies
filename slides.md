@@ -127,9 +127,6 @@ Plus any modules on the filesystem
 - thonnyの通信ペインから接続できます
 
 ```shell
-Connected to MicroPython at /dev/cu.usbmodem101
-Use Ctrl-] or Ctrl-x to exit this shell
-
 >>> import sys
 >>> sys.implementation
 (name='micropython', version=(1, 23, 0, ''), _machine='Raspberry Pi Pico W with RP2040', _mpy=4870)
