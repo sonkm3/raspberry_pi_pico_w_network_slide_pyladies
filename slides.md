@@ -121,7 +121,7 @@ Plus any modules on the filesystem
 
 ---
 
-## mpremoteを使って動作確認
+## thonnyを使って動作確認
 
 - Raspberry Pi Pico W上ではMicroPythonのREPLが起動しているのでシリアルコンソールで接続することができます
 - thonnyの通信ペインから接続できます
